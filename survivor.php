@@ -1,6 +1,6 @@
 <?php
 
-/*  Function remove consists of two args. One is the integer array, the other is
+/*  Function survivor consists of two args. One is the integer array, the other is
  *  the token to control removal: 1--remove 0--not remove
  *  
  *  When there is only one element left in the array, then the survivor found
