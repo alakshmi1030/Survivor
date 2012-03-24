@@ -5,7 +5,7 @@
  *  
  *  When there is only one element left in the array, then the survivor found
  * 
- *  Edited by Jiangyue Zhu
+ *  Edited by Jiangyue Zhu, insert some thing here
  */
 
 function survivor($array,$rmToken){
